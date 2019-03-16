@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  FMDB_Demo
-//
-//  Created by Marta Bella on 16/03/2019.
-//  Copyright © 2019 CFGS La Salle Gracia. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController {
